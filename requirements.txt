@@ -1,0 +1,14 @@
+torch
+python-dotenv
+langchain 
+langchain-community
+langchainhub
+yandexcloud
+psutil
+unstructured
+faiss-cpu
+
+# Server requirements:
+fastapi
+uvicorn
+python-multipart
